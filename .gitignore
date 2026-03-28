@@ -1,0 +1,33 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Privacy / Sensitive
+*.env
+*.env.*
+credentials.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Build artifacts
+node_modules/
+dist/
+build/
+*.map
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary
+*.tmp
+*.bak
